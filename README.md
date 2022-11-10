@@ -7,7 +7,7 @@
 
 - 💬 Curiosidades: **Sempre fui apaixonado por tecnologia e finalmente em 2022 tive a oportunidade de conhecer a Trybe, onde eu pude de fato aprender como trabalhar com essas ferramentas incriveis. No momento meu foco é aprimorar meu conhecimento em Desenvolvimento Front-end, e me formar em Back-end para ser Full-stack**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dev-gabriel-batista/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dev-gabriel-batista/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/gcbatiista/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/gcbatiista/" height="30" width="40" /></a>
@@ -20,4 +20,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gbatiista&show_icons=true&locale=en" alt="gbatiista" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gbatiista&" alt="gbatiista" /></p>
