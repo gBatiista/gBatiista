@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <h1 align="center">Olá 👋, Eu sou o Gabriel Batista</h1>
-<h3 align="center">Summer Job - Instrução // Desenvolvedor Front-end | ReactJS | Redux | Context API | JavaScript | HTML | CSS</h3>
+<h3 align="center">Summer Job - Instrução // Desenvolvedor Full-Stack | React.JS | React Native | Node.JS</h3>
 
 - 🔭 Trabalho atual: **Trybe**
 
-- 🌱 Estudos: **Atualmente estou estudando Back-end na @trybe para me tornar Full-stack.**
+- 🌱 Estudos: **Atualmente estou aprofundando meus conhecimentos em Back-end na @trybe.**
 
-- 💬 Curiosidades: **Sempre fui apaixonado por tecnologia e finalmente em 2022 tive a oportunidade de conhecer a Trybe, onde eu pude de fato aprender como trabalhar com essas ferramentas incriveis. No momento meu foco é aprimorar meu conhecimento em Desenvolvimento Front-end, e me formar em Back-end para ser Full-stack**
+- 💬 Curiosidades: **Sempre fui apaixonado por tecnologia e finalmente em 2022 tive a oportunidade de conhecer a Trybe, onde eu pude de fato aprender como trabalhar com essas ferramentas incriveis. No momento meu foco é aprimorar meu conhecimento em Desenvolvimento Full-Stack React | Node.JS**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
